@@ -43,7 +43,7 @@ st.caption("ASTP Final Project · Kyle Hsiung · watching the wave equation make
 st.markdown(
     """
 This project simulates a wave traveling toward a wall with one or two
-slits cut into it, and then creates a diffraction pattern on the screen. 
+slits cut into it, and then creates an interference pattern on the screen. 
 Instead of using the simple double-slit formula, I built the wave from scratch
 step by step, which involved solving the 2D wave equation on a grid. 
 The interference and diffraction patterns emerge on their own similar to
